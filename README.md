@@ -14,6 +14,7 @@ I'm Slourp, a passionate backend developer with expertise in Laravel, Symfony, a
 - 🎉 Laravel
 - 🌟 Symfony
 - 🔥 Express.js
+- 💻 React
 - 🌈 Vue.js
 
 ## Projects 🔨
