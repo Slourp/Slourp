@@ -7,7 +7,7 @@ I'm Slourp, a passionate backend developer with expertise in Laravel, Symfony, a
 - 💻 PHP (Laravel, Symfony)
 - 🌐 JavaScript (Express.js, Node.js)
 - 🐳 Docker
-- 🐧 Linux
+- 🐧 Archlinux / i3WM
 
 ## Frameworks & Libraries 🔧
 
@@ -31,7 +31,7 @@ When I'm not coding, you can find me cycling, weightlifting, dancing, or tinkeri
 ## Contact 📫
 
 - LinkedIn: https://www.linkedin.com/in/davidvanmak/
-- Email: davidvanmak+github@gmail.com
+- Email: davidvanmak+github at gmail.com
 
 I'm open to new opportunities and would love to hear from you.
 
