@@ -28,10 +28,12 @@ Here are some projects I've worked on recently:
 
 When I'm not coding, you can find me cycling, weightlifting, dancing, or tinkering with my car. I'm always up for a new adventure and love learning new things.
 
-## Contact & More Information 📫
+## Contact 📫
 
-If you want to get in touch, feel free to connect with me on LinkedIn or send me an email at davidvanmak+github@gmail.com. Thanks for stopping by!
+- LinkedIn: https://www.linkedin.com/in/davidvanmak/
+- Email: davidvanmak+github@gmail.com
 
 I'm open to new opportunities and would love to hear from you.
 
-Feel free to customize and add more information to this README as you see fit. Good luck with your job search and happy coding!
+Feel free to customize and add more information to this README as you see fit. Good luck with your job search and happy coding! 🚀
+
