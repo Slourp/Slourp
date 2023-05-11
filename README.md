@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Slourp, a passionate backend developer with expertise in Laravel, Symfony, and Docker. I love building robust and scalable web applications using solid design patterns and best practices.
+I'm David, a passionate backend developer with expertise in Laravel, Symfony, and Docker. I love building robust and scalable web applications using solid design patterns and best practices.
 
 ## Technologies & Tools 🚀
 
