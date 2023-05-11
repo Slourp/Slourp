@@ -19,7 +19,7 @@ I'm Slourp, a passionate backend developer with expertise in Laravel, Symfony, a
 
 ## Projects 🔨
 
-Here are some projects I've worked on recently:
+Here are some projects I'am working on :
 
 - 🚀 [Laravel Microservice](https://github.com/Slourp/laravel_microservice) - A Laravel microservice for building scalable applications.
 - 🛍️ [Laravel E-commerce Web App](https://github.com/Slourp/laravel_ecommerce_vue) - A Laravel e-commerce web app based on a Vue.js front-end.
