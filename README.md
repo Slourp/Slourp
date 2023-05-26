@@ -1,3 +1,4 @@
+
 # Hey there! 👋
 
 I'm David, a passionate backend developer with expertise in Laravel, Symfony, and Docker. I love building robust and scalable web applications using solid design patterns and best practices.
@@ -19,15 +20,16 @@ I'm David, a passionate backend developer with expertise in Laravel, Symfony, an
 
 ## Projects 🔨
 
-Here are some projects I'am working on :
+Here are some projects I'm currently working on :
 
 - 🚀 [Laravel Microservice](https://github.com/Slourp/laravel_microservice) - A Laravel microservice for building scalable applications.
 - 🛍️ [Laravel E-commerce Web App](https://github.com/Slourp/laravel_ecommerce_vue) - A Laravel e-commerce web app based on a Vue.js front-end.
-- 🎨 [Laravel Design Patterns](https://github.com/Slourp/laravel_design_patterns) - A Laravel project to showcase all patterns from the Gang of Four.
+- 🎨 [Symfony Design Patterns](https://github.com/Slourp/pattern) - A Laravel project to showcase all patterns from the Gang of Four.
+- ₿ [Crypto Tracker](https://github.com/Slourp/pattern) - An Express.js and React-based cryptocurrency tracking application that allows users to monitor and analyze real-time price changes of their favorite cryptocurrencies.
 
 ## Interests & Hobbies 🚴‍♂️💪💃🔧
 
-When I'm not coding, you can find me cycling, weightlifting, dancing, or tinkering with my car. I'm always up for a new adventure and love learning new things.
+When I'm not coding, you can find me indulging in my other interests and hobbies. I am an avid cyclist and fitness enthusiast, often spending my free time on long bike rides or in the gym lifting weights. I am also deeply interested in cryptocurrency and always enjoy learning more about this rapidly evolving field. Beyond this, I love to dance and tinker with my car. I'm always up for a new adventure and love learning new things.
 
 ## Contact 📫
 
@@ -37,4 +39,3 @@ When I'm not coding, you can find me cycling, weightlifting, dancing, or tinkeri
 I'm open to new opportunities and would love to hear from you.
 
 Feel free to customize and add more information to this README as you see fit. Good luck with your job search and happy coding! 🚀
-
