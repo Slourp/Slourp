@@ -25,7 +25,7 @@ Here are some projects I'm currently working on :
 - 🚀 [Laravel Microservice](https://github.com/Slourp/laravel_microservice) - A Laravel microservice for building scalable applications.
 - 🛍️ [Laravel E-commerce Web App](https://github.com/Slourp/laravel_ecommerce_vue) - A Laravel e-commerce web app based on a Vue.js front-end.
 - 🎨 [Symfony Design Patterns](https://github.com/Slourp/pattern) - A Laravel project to showcase all patterns from the Gang of Four.
-- ₿ [Crypto Tracker](https://github.com/Slourp/pattern) - An Express.js and React-based cryptocurrency tracking application that allows users to monitor and analyze real-time price changes of their favorite cryptocurrencies.
+- ₿ [Crypto Tracker](https://github.com/Slourp/cryptocurrency_tracker) - An Express.js and React-based cryptocurrency tracking application that allows users to monitor and analyze real-time price changes of their favorite cryptocurrencies.
 
 ## Interests & Hobbies 🚴‍♂️💪💃🔧
 
